@@ -1,0 +1,20 @@
+body
+{
+    
+    background-color: lightblue;
+
+}
+h1
+{
+    color:orange;
+    text-align:center;
+}
+p
+{
+    font-size:20px;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+
+}

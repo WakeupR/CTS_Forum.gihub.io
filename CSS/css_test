@@ -1,0 +1,23 @@
+<html>
+<style>
+body
+{
+    font-family: "Consolas";
+    background-color:#d0e4fe;
+}
+h1
+{
+    color:orange;
+    text-align:center;
+}
+p
+{
+    font-size:20px;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+
+}
+</style>
+</html>
